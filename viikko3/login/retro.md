@@ -1,0 +1,5 @@
+On olemassa kaksi retrospektiivitekniikkaa: Start/Stop/Continue/More of/Less of Wheel ja Glad/Sad/Mad. Ensimmäinen käyttää viiteen osaan jaettua ympyrää, johon tiimi kirjoittaa ideoita. Ensimmäinen osa: mitä kannattaa alkaa tehdä, toinen: mitä lopettaa, kolmas: mitä jatkaa, neljäs ja viides: mitä tehdä enemmän ja mitä vähemmän. Tämä auttaa näkemään nopeasti prosessin vahvuudet ja ongelmakohdat ja sopimaan konkreettisista toimenpiteistä seuraavaa sprinttiä varten.
+
+Toisessa tekniikassa taulu jaetaan kolmeen sarakkeeseen: Glad, Sad ja Mad. Osallistujat kirjoittavat sprintin tapahtumia, jotka ilahduttivat, harmittivat tai vihastuttivat, sitten ryhmittelevät muistiinpanot ja äänestävät, mistä puhua tarkemmin. Tämä auttaa tuomaan esiin ei vain faktat vaan myös tiimin tunteet, myös ulkoiset ärsyttävät tekijät, ja johtaa lopulta sopimuksiin työn parantamiseksi tehtävistä käytännön askelista.
+
+Molempia tekniikoita on helppo soveltaa erilaisiin tiimeihin ja sprintin pituuksiin, ja ne auttavat tekemään keskustelusta konkreettista ja turvallista.
