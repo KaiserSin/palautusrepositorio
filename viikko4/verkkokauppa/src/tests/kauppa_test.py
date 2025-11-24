@@ -165,4 +165,4 @@ class TestKauppa(unittest.TestCase):
         kauppa.tilimaksu("pekka", "12345")
         varasto_mock.palauta_varastoon.assert_called_with(Tuote(1, "maito", 5))
         pankki_mock.tilisiirto.assert_called_with("pekka", 12, "12345", "33333-44455", 0)
-   
+    
