@@ -14,7 +14,11 @@ class TennisGame:
         if player_name == self.player1_name:
             self.player1_points += 1
             return
-        self.player2_points += 1
+        elif player_name == self.player2_name:
+            self.player2_points += 1
+            return
+        else:
+            raise ValueError(f"Invalid player name: {player_name}")
 
     def get_score(self):
         if self._scores_are_tied():
