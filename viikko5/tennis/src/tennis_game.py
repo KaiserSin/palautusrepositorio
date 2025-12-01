@@ -56,4 +56,4 @@ class TennisGame:
         return f"{player1_score}-{player2_score}"
 
     def _point_name(self, point_total):
-        return self.POINT_NAMES[point_total]
+        return self.POINT_NAMES.get(point_total, "Unknown")
